@@ -1,0 +1,8 @@
+Flask
+Flask-PyMongo
+Flask-Login
+Flask-Bcrypt
+Flask-Toastr
+Flask-WTF
+python-dotenv
+gunicorn
